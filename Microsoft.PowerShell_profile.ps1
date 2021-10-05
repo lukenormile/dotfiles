@@ -6,4 +6,4 @@ function prompt
     return " "
 }
 
-alias more less
+Set-Alias -Name more -Value less
