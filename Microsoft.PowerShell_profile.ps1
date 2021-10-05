@@ -1,3 +1,5 @@
+# Use '$Profile' to find where this goes. 
+
 function prompt
 {
     # Write-Host "FLARE " -ForegroundColor Green -NoNewLine
